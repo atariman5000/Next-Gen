@@ -1,4 +1,4 @@
-// Code for platform detection
+// Code for platform detection TEST CHANGE
 var isMaterial = Framework7.prototype.device.ios === false;
 var isIos = Framework7.prototype.device.ios === true;
 
