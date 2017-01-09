@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Star Track
 
 A PhoneGap example app using [Framework7 HTML Framework](http://framework7.io/) and the [Spotify API](https://developer.spotify.com/web-api/).
@@ -41,3 +42,7 @@ cordova run android --device
 ```
 
 etc...
+=======
+# Next-Gen
+First publish
+>>>>>>> 4f3598986fe22874bd4739e1cc1cac215efd3f0f
